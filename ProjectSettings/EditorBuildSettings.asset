@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Main/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Present/Scenes/Intro.unity
+    guid: 261dc666acd5fd842be86abf5b5b76de
+  - enabled: 1
     path: Assets/Past/Scenes/PastLab.unity
     guid: e2dcbbcf1fb9a644bb4dcfb009a5202f
   - enabled: 1
@@ -16,5 +19,5 @@ EditorBuildSettings:
     guid: e19c7de3130c1554b803e3c9783a9f6b
   - enabled: 1
     path: Assets/Main/Scenes/Credits.unity
-    guid: e71c283e5fb713640ad18545928123f3
+    guid: 0b99ba18c917a2e4096e93f34ee1b600
   m_configObjects: {}
